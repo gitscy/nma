@@ -1,0 +1,10 @@
+{
+  "name": "scypack",
+  "version": "0.0.1",
+  "description": "NodejsConsoleApp1",
+  "main": "censortext.js",
+  "author": {
+    "name": "S.cy_Office",
+    "email": "scy881119@gmail.com"
+  }
+}
