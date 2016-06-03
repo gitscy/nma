@@ -1,0 +1,10 @@
+{
+  "name": "readwords",
+  "version": "0.0.0",
+  "description": "readwords",
+  "main": "app.js",
+  "author": {
+    "name": "S.cy_Office",
+    "email": ""
+  }
+}

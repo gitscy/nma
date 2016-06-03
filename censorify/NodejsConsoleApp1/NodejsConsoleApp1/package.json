@@ -1,10 +1,18 @@
 {
-  "name": "scypack",
-  "version": "0.0.1",
-  "description": "NodejsConsoleApp1",
-  "main": "censortext.js",
-  "author": {
-    "name": "S.cy_Office",
-    "email": "scy881119@gmail.com"
-  }
+    "name": "scypack",
+    "version": "0.0.1",
+    "description": "NodejsConsoleApp1",
+    "main": "censortext.js",
+    "repository": {
+        "type": "get",
+        "url": "https://github.com/gitscy/nma/tree/master/censorify/NodejsConsoleApp1/NodejsConsoleApp1"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "author": {
+        "name": "godscy",
+        "email": "scy881119@gmail.com"
+    }
 }
